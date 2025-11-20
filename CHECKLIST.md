@@ -52,12 +52,6 @@
 - [ ] Created `backend` subfolder
 - [ ] Created `frontend` subfolder
 
-**My project location:**
-```
-_____________________________________________
-(Write your full path here)
-```
-
 ---
 
 ## Backend Setup Checklist
@@ -99,11 +93,6 @@ _____________________________________________
 - [ ] `tsconfig.json`
 - [ ] `.env`
 - [ ] `.env.example`
-
-### Backend Code
-- [ ] Copied all code from artifacts into respective files
-- [ ] No missing files
-- [ ] All files have content (not empty)
 
 ### Environment Configuration
 - [ ] Created `.env` file
@@ -149,11 +138,6 @@ _____________________________________________
 - [ ] `tsconfig.json`
 - [ ] `tailwind.config.js`
 - [ ] `package.json`
-
-### Frontend Code
-- [ ] Copied all code from artifacts
-- [ ] All imports are correct
-- [ ] No syntax errors visible
 
 ---
 
@@ -216,6 +200,8 @@ _____________________________________________
 - [ ] Added necessary entries to `.gitignore`
 - [ ] Ran `git add .`
 - [ ] Ran `git commit -m "Initial commit"`
+      
+      OR
 
 ### Personal Access Token
 - [ ] Went to GitHub Settings

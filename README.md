@@ -442,9 +442,9 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+**AKSHAYA RACHAMALLA**
+- GitHub: https://github.com/Akshaya050
+- LinkedIn: https://www.linkedin.com/in/akshaya-rachamalla-3b7261244/
 
 ## 🙏 Acknowledgments
 

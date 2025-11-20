@@ -484,9 +484,9 @@ After completing this project:
 
 Created issues? Have questions?
 
-- **GitHub Issues:** [Create an issue](https://github.com/[username]/expense-management-system/issues)
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your Profile](https://linkedin.com/in/yourprofile)
+- **GitHub Issues:** [Create an issue](https://github.com/Akshaya050/expense-management-system/issues)
+- **Email:** akshaya.rachamalla@gmail.com
+- **LinkedIn:** [Your Profile](https://www.linkedin.com/in/akshaya-rachamalla-3b7261244/))
 
 ---
 

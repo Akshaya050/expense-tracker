@@ -196,7 +196,7 @@ Create `.env` file in the `backend` folder:
 ```env
 PORT=5000
 NODE_ENV=development
-MONGODB_URI=mongodb+srv://YOUR_USERNAME:YOUR_PASSWORD@cluster0.xxxxx.mongodb.net/expense-management?retryWrites=true&w=majority
+MONGODB_URI= YOUR URL
 FRONTEND_URL=http://localhost:3000
 ```
 

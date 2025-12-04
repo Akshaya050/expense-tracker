@@ -102,7 +102,7 @@
 - [ ] Added `FRONTEND_URL=http://localhost:3000`
 - [ ] Replaced placeholder values with actual values
 
----
+------
 
 ## Frontend Setup Checklist
 

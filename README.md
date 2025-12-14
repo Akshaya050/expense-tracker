@@ -95,6 +95,7 @@ backend/
 ├── package.json
 ├── tsconfig.json
 ├── .env
+├── .gitignore
 └── .env.example
 ```
 
